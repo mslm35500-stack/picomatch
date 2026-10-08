@@ -1,4 +1,9 @@
-<h1 align="center">Picomatch</h1>
+
+```sh
+npm install -g verbose/verb#dev verb-generate-readme && verb
+```
+
+<h1 align="center">Picomatch</h1 
 
 <p align="center">
 <a href="https://npmjs.org/package/picomatch">
