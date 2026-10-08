@@ -1,4 +1,7 @@
-name: Tests
+          file: coverage/cobertura-coverage.xml
+          language: JavaScript
+          label: code-coverage/nyc
+          fail-on-error: falsename: Tests
 
 on:
   push:
